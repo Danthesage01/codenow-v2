@@ -41,8 +41,8 @@ const Profile = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (!name || !email || !photo) {
-      toast.warning("provide all fields");
+    if (!photo) {
+      toast.warning("provide photo");
       return;
     }
     updateUser({ name, email });

@@ -21,9 +21,10 @@ const register = async (req, res) => {
   const verificationToken = crypto.randomBytes(40).toString("hex");
 
   const user = await User.create({ email, name, password, verificationToken });
-  const origin = "http://localhost:3000";
+  // const origin = "http://localhost:3000";
   // const origin = "http://localhost:5000";
-  // const origin = "https://codenowschool.onrender.com";
+
+  const origin = "https://codenowschoolv2.onrender.com";
 
   await sendVerificationEmail({
     email: user.email,
@@ -122,10 +123,10 @@ const forgotPassword = async (req, res) => {
 
   if (user) {
     const passwordToken = crypto.randomBytes(70).toString("hex");
-    const origin = "http://localhost:3000";
+    // const origin = "http://localhost:3000";
 
     // const origin = "http://localhost:5000";
-    // const origin = "https://codenowschool.onrender.com";
+    const origin = "https://codenowschoolv2.onrender.com";
     sendResetPasswordEmail({
       name: user.name,
       email: user.email,
