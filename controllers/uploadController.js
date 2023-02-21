@@ -38,7 +38,7 @@ const uploadUserImageLocal = async (req, res) => {
 
 // CLOUD with CLOUDINARY
 const uploadUserImageCloud = async (req, res) => {
-  console.log(req.files.image);
+
 
   if (!req.files) {
     throw new BadRequestError("No FIle Uploaded");

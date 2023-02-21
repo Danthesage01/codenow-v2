@@ -92,10 +92,10 @@ const login = async (req, res) => {
 // UPDATE USER
 const updateUser = async (req, res) => {
   const { email, name, photo } = req.body;
-  console.log(photo);
+  
 
-  if (!email || !name || !photo) {
-    throw new BadRequestError("Please provide all fields.");
+  if (!photo) {
+    throw new BadRequestError("Please provide photo");
   }
 
   const user = await User.findOne({ _id: req.user.userId });
