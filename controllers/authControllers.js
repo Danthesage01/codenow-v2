@@ -93,11 +93,6 @@ const login = async (req, res) => {
 const updateUser = async (req, res) => {
   const { email, name, photo } = req.body;
   
-
-  if (!photo) {
-    throw new BadRequestError("Please provide photo");
-  }
-
   const user = await User.findOne({ _id: req.user.userId });
   user.email = email;
   user.name = name;

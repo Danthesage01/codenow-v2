@@ -41,10 +41,6 @@ const Profile = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (!photo) {
-      toast.warning("provide photo");
-      return;
-    }
     updateUser({ name, email });
     
   };
