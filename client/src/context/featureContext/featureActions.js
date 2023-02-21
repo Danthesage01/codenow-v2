@@ -1,0 +1,11 @@
+export const GET_QUIZ_BEGIN = "GET_QUIZ_BEGIN";
+export const GET_QUIZ_SUCCESS = "GET_QUIZ_SUCCESS";
+export const GET_QUIZ_ERROR = "GET_QUIZ_ERROR";
+
+
+export const HANDLE_CHANGE = "HANDLE_CHANGE";
+export const INCREMENT_INDEX = "INCREMENT_INDEX";
+export const DECREMENT_INDEX = "DECREMENT_INDEX";
+export const CORRECT_ANSWER = "CORRECT_ANSWER"
+export const OPEN_MODAL = "OPEN_MODAL"
+export const  CLOSE_MODAL = "CLOSE_MODAL"

@@ -1,0 +1,3170 @@
+[
+ {
+  "question": "What is CSS?",
+  "incorrect_answers": [
+   "CSS is a style sheet language",
+   "CSS is designed to separate the presentation and content, including layout, colors, and fonts",
+   "CSS is the language used to style the HTML documents"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "For clearing all the settings which function should be called?",
+  "incorrect_answers": [
+   "localStorage.remove(key)",
+   "localStorage.remove()",
+   "localStorage.clearAll()"
+  ],
+  "correct_answer": "localStorage.clear()",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "The URL property belongs to which of the following object?",
+  "incorrect_answers": [
+   "Element",
+   "Location",
+   "Event"
+  ],
+  "correct_answer": "Document",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What is React.js?",
+  "incorrect_answers": [
+   "Open-source JavaScript back-end library",
+   "JavaScript front-end library to create a database",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Free and open-source JavaScript front-end library",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the purpose of a Rendering Engine?",
+  "incorrect_answers": [
+   "Parsing objects in page",
+   "Drawing all objects in page",
+   "Rendering object"
+  ],
+  "correct_answer": "Both Parsing & Drawing all objects in page",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Before HTML5 where data had to be stored?",
+  "incorrect_answers": [
+   "browser",
+   "only in Internet Explorer",
+   "only in Chrome"
+  ],
+  "correct_answer": "cookies",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "JavaScript Code can be called by using ___________",
+  "incorrect_answers": [
+   "RMI",
+   "Triggering Event",
+   "Preprocessor"
+  ],
+  "correct_answer": "Function/Method",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": " Which of the following tag is used to embed css in html page?",
+  "incorrect_answers": [
+   "<css>",
+   "<!DOCTYPE html>",
+   "<script>"
+  ],
+  "correct_answer": "<style>",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which one of the following is used to identify an anchor link?",
+  "incorrect_answers": [
+   "#!",
+   "#?",
+   "&"
+  ],
+  "correct_answer": "#",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following acts as the input of a class-based component?",
+  "incorrect_answers": [
+   "Class",
+   "Factory",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Props",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What is JavaScript?",
+  "incorrect_answers": [
+   "JavaScript is an assembly language used to make the website interactive",
+   "JavaScript is a compiled language used to make the website interactive",
+   "None of the mentioned"
+  ],
+  "correct_answer": "JavaScript is a scripting language used to make the website interactive",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is HTML?",
+  "incorrect_answers": [
+   "HTML describes the structure of a webpage",
+   "HTML is the standard markup language mainly used to create web pages",
+   "HTML consists of a set of elements that helps the browser how to view the content"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "React.js is written in which of the following language?",
+  "incorrect_answers": [
+   "C++",
+   "C",
+   "Java"
+  ],
+  "correct_answer": "JavaScript",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "How many elements can a valid react component return?",
+  "incorrect_answers": [
+   "React doesn’t return element",
+   "More than 1 element",
+   "None of the mentioned"
+  ],
+  "correct_answer": "1 Element",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not a HTML5 tag?",
+  "incorrect_answers": [
+   "<track >",
+   "<video>",
+   "<source>"
+  ],
+  "correct_answer": "<slider>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is correct about JavaScript?",
+  "incorrect_answers": [
+   "JavaScript is Assembly-language",
+   "JavaScript is an Object-Oriented language",
+   "JavaScript is a High-level language"
+  ],
+  "correct_answer": "JavaScript is an Object-Based language",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "In which of the following directory React Components are saved?",
+  "incorrect_answers": [
+   "Inside components/js/",
+   "Inside vendor/js/components/",
+   "Inside vendor/components/"
+  ],
+  "correct_answer": "Inside js/components/",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Who is the father of HTML?",
+  "incorrect_answers": [
+   "Rasmus Lerdorf",
+   "Brendan Eich",
+   "Sergey Brin"
+  ],
+  "correct_answer": "Tim Berners-Lee",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is not the element associated with the HTML table layout?",
+  "incorrect_answers": [
+   "alignment",
+   "size",
+   "spanning"
+  ],
+  "correct_answer": "color",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following command is used to Install create-react-app without npx?",
+  "incorrect_answers": [
+   "npm install create-react-app",
+   "npm install -f create-react-app",
+   "install -g create-react-app"
+  ],
+  "correct_answer": "npm install -g create-react-app",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS selectors are used to specify a group of elements?",
+  "incorrect_answers": [
+   "tag",
+   "both class and tag",
+   "id"
+  ],
+  "correct_answer": "class",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "HTML stands for __________",
+  "incorrect_answers": [
+   "HyperText Machine Language",
+   "HyperText Marking Language",
+   "HighText Marking Language"
+  ],
+  "correct_answer": "HyperText Markup Language",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is an HTML specification used to add more information to HTML tags?",
+  "incorrect_answers": [
+   "Macrodata",
+   "Minidata",
+   "Modifydata"
+  ],
+  "correct_answer": "Microdata",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CLI command can also be used to rename files?",
+  "incorrect_answers": [
+   "rm",
+   "rm -r",
+   "rm -r"
+  ],
+  "correct_answer": "mv",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Point out the correct statement.",
+  "incorrect_answers": [
+   "CLI can help you to organize messages",
+   "Navigation of directory is possible using CLI",
+   "None of the mentioned"
+  ],
+  "correct_answer": " CLI can help you to organize files and folders",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following has introduced text, list, box, margin, border, color, and background properties?",
+  "incorrect_answers": [
+   "Ajax",
+   "PHP",
+   "HTML"
+  ],
+  "correct_answer": "CSS",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Among the given statements, which statement defines closures in JavaScript?",
+  "incorrect_answers": [
+   "JavaScript is a function that is enclosed with references to its inner function scope",
+   "JavaScript is a function that is enclosed with the object to its inner function scope",
+   "None of the mentioned"
+  ],
+  "correct_answer": "JavaScript is a function that is enclosed with references to its lexical environment",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Arrays in JavaScript are defined by which of the following statements?",
+  "incorrect_answers": [
+   "It is an ordered list of objects",
+   "It is an ordered list of functions",
+   "It is an ordered list of string"
+  ],
+  "correct_answer": "It is an ordered list of values",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following CSS framework is used to create a responsive design?",
+  "incorrect_answers": [
+   "django",
+   "rails",
+   "laravel"
+  ],
+  "correct_answer": "bootstrap",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is not javascript data types?",
+  "incorrect_answers": [
+   "Number type",
+   "Undefined type",
+   "Null type"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which attribute specifies a unique alphanumeric identifier to be associated with an element?",
+  "incorrect_answers": [
+   "class",
+   "type",
+   "article"
+  ],
+  "correct_answer": "id",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which attribute is not essential under <iframe>?",
+  "incorrect_answers": [
+   "src",
+   "height",
+   "width"
+  ],
+  "correct_answer": "frameborder",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS selector is used to specify a rule to bind a particular unique element?",
+  "incorrect_answers": [
+   "tag",
+   "class",
+   "both class and tag"
+  ],
+  "correct_answer": "id",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "In which condition is the React.js Lifecycle method static getDerivedSateFromProps(props, state) is called?",
+  "incorrect_answers": [
+   "When the state of the component is updated",
+   "When a component is created for the first time",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Both of the mentioned",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following element is used by the filter property to blur the images?",
+  "incorrect_answers": [
+   "opaque()",
+   "all of the mentioned",
+   "scatter()"
+  ],
+  "correct_answer": "blur()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Where is Client-side JavaScript code is embedded within HTML documents?",
+  "incorrect_answers": [
+   "A URL that uses the special javascript:code",
+   "A URL that uses the special javascript:encoding",
+   "A URL that uses the special javascript:stack"
+  ],
+  "correct_answer": "A URL that uses the special javascript:protocol",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What is the correct syntax of doctype in HTML5?",
+  "incorrect_answers": [
+   "</doctype html>",
+   "<doctype html>",
+   "<doctype html!>"
+  ],
+  "correct_answer": "<!doctype html>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is method is not a part of ReactDOM?",
+  "incorrect_answers": [
+   "ReactDOM.hydrate()",
+   "ReactDOM.createPortal()",
+   "All of the mentioned"
+  ],
+  "correct_answer": "ReactDOM.destroy()",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What is the correct syntax of web address?",
+  "incorrect_answers": [
+   "port://domain.filenmae:path/scheme/prefix",
+   "prefix://scheme.port:domain/filename/path",
+   "path://prefix.port:domain/filename/scheme"
+  ],
+  "correct_answer": "scheme://prefix.domain:port/path/filename",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following object is the main entry point to all client-side JavaScript features and APIs?",
+  "incorrect_answers": [
+   "Position",
+   "Standard",
+   "Location"
+  ],
+  "correct_answer": "Window",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is correct about prop in react?",
+  "incorrect_answers": [
+   "Can be changed inside another component",
+   "Can be changed inside the component",
+   "All of the mentioned"
+  ],
+  "correct_answer": "Cannot be changed in the component",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following can be used to call a JavaScript Code Snippet?",
+  "incorrect_answers": [
+   "Preprocessor",
+   "Triggering Event",
+   "RMI"
+  ],
+  "correct_answer": "Function/Method",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is used to pass data to a component from outside in React?",
+  "incorrect_answers": [
+   "render with arguments",
+   "setState",
+   "PropTypes"
+  ],
+  "correct_answer": "props",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following HTML code will make an image clickable?",
+  "incorrect_answers": [
+   "<a href='https: //www.codenowschool.com/'>codenowschool Home Page</a>",
+   "<a href='#'><img src='https: //www.sanfoundry.com/sanfoundry-logo' /></a>",
+   "<img src='https: //www.sanfoundry.com/sanfoundry-logo' />"
+  ],
+  "correct_answer": "<a href='https: //www.codenowschool.com/'><img src='https://www.codenowschool.com/logo' /></a>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is the correct name of React.js?",
+  "incorrect_answers": [
+   "React",
+   "React.js",
+   "ReactJS"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which HTML element is used for YouTube videos?",
+  "incorrect_answers": [
+   "samp",
+   "<small>",
+   "<frame>"
+  ],
+  "correct_answer": "<iframe>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The type of a variable that is volatile is _______________",
+  "incorrect_answers": [
+   "Volatile variable",
+   "Immutable variable",
+   "Dynamic variable"
+  ],
+  "correct_answer": "Mutable variable",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following command allows you to change directory to one level above your parent directory?",
+  "incorrect_answers": [
+   "cd",
+   "cd.",
+   "none of the mentioned"
+  ],
+  "correct_answer": "cd..",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not a CLI command?",
+  "incorrect_answers": [
+   "rm",
+   "clear",
+   "none of the mentioned"
+  ],
+  "correct_answer": "delete",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following are the advantages of React.js?",
+  "incorrect_answers": [
+   "React.js can increase the application's performance with Virtual DOM.",
+   "React.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library.",
+   "React.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library."
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "A hexadecimal literal begins with __________",
+  "incorrect_answers": [
+   "00",
+   "0x",
+   "0X"
+  ],
+  "correct_answer": "Both 0x and 0X",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following systems record changes to a file over time?",
+  "incorrect_answers": [
+   "Record Control",
+   "Forecast Control",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Version Control",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is not a disadvantage of React.js?",
+  "incorrect_answers": [
+   "React.js has only a view layer. We have put your code for Ajax requests, events and so on.",
+   "The library of React.js is pretty large.",
+   "The learning curve can be steep in React.js."
+  ],
+  "correct_answer": "The JSX in React.js makes code easy to read and write.",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS3 Color Feature can be used as a macro for whatever the current color is?",
+  "incorrect_answers": [
+   "HSLa Color",
+   "HSL Color",
+   "RGB Color"
+  ],
+  "correct_answer": "CurrentColor keyword",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "JavaScript _________ when there is an indefinite or an infinite value during an arithmetic computation.",
+  "incorrect_answers": [
+   "Prints an exception error",
+   "Prints an overflow error",
+   "Prints the value as such"
+  ],
+  "correct_answer": "Displays 'Infinity'",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "HTML is a subset of ___________",
+  "incorrect_answers": [
+   "SGMT",
+   "XHTML",
+   "SGME"
+  ],
+  "correct_answer": "SGML",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is used to read an HTML page and render it?",
+  "incorrect_answers": [
+   "Web server",
+   "Web network",
+   "Web matrix"
+  ],
+  "correct_answer": "Web browser",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is a revision control system?",
+  "incorrect_answers": [
+   "NumPy",
+   "Slidify",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Git",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not a difference between HTML and XHTML?",
+  "incorrect_answers": [
+   "Tags and attributes are case-insensitive in HTML but not in XHTML",
+   ") Special characters must be escaped using character entities in XHTML unlike HTML",
+   "Charset in html is ‘text/html’ where as in xhtml it is ‘application/xml+xhtml’"
+  ],
+  "correct_answer": "Charset in both html and xhtml is “text/html”",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What of the following is used in React.js to increase performance?",
+  "incorrect_answers": [
+   "Original DOM",
+   "Both A and B",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Virtual DOM",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following command line environment is used for interacting with Git?",
+  "incorrect_answers": [
+   "GitHub",
+   "Git Boot",
+   "All of the mentioned"
+  ],
+  "correct_answer": "Git Bash",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following function adjust the brightness of an element’s color, for use by the filter property?",
+  "incorrect_answers": [
+   "contrast()",
+   "dark()",
+   "light()"
+  ],
+  "correct_answer": "brightness()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not considered as an error in JavaScript?",
+  "incorrect_answers": [
+   "Syntax error",
+   "Missing of semicolons",
+   "Missing of Bracket"
+  ],
+  "correct_answer": "Division by zero",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following type of HTML tag is used to define an internal style sheet?",
+  "incorrect_answers": [
+   "<script>",
+   "<link>",
+   "<class>"
+  ],
+  "correct_answer": "<style>",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following HTML element is used for canvas graphics?",
+  "incorrect_answers": [
+   "<css>",
+   "<paint>",
+   "<graphic>"
+  ],
+  "correct_answer": "<canvas>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following function adjusts the difference between light and dark values, for use by the filter property?",
+  "incorrect_answers": [
+   "dark()",
+   "light()",
+   "brightness()"
+  ],
+  "correct_answer": "contrast()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?",
+  "incorrect_answers": [
+   "Constructor",
+   "Object",
+   "DataObject"
+  ],
+  "correct_answer": "Class",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following web hosting service use Git control system?",
+  "incorrect_answers": [
+   "Git Bash",
+   "Open Hash",
+   "None of the mentioned"
+  ],
+  "correct_answer": "GitHub",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "The escape sequence ‘\f’ stands for _________",
+  "incorrect_answers": [
+   "Floating numbers",
+   "Representation of functions that returns a value",
+   "\f is not present in JavaScript"
+  ],
+  "correct_answer": "Form feed",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following adds all new files to local repository?",
+  "incorrect_answers": [
+   "git add -u",
+   "git add -A",
+   "none of the mentioned"
+  ],
+  "correct_answer": "git add .",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following CSS property is used to make the text bold?",
+  "incorrect_answers": [
+   "text-decoration: bold",
+   "font-style: bold",
+   "text-align: bold"
+  ],
+  "correct_answer": "font-weight: bold",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Point out the correct statement.",
+  "incorrect_answers": [
+   "You don’t need GitHub to use Git",
+   "Navigation of directory is possible using CLI",
+   "None of the mentioned"
+  ],
+  "correct_answer": "CLI can help you to organize files and folders",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following command updates tracking for files that are modified?",
+  "incorrect_answers": [
+   "git add .",
+   "git add -A",
+   "none of the mentioned"
+  ],
+  "correct_answer": "git add -u",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+  "incorrect_answers": [
+   "<h6>",
+   "heading",
+   "<head>"
+  ],
+  "correct_answer": "<h1>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following keyword is used to create a class inheritance?",
+  "incorrect_answers": [
+   "Create",
+   "Inherits",
+   "This"
+  ],
+  "correct_answer": "Extends",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the default port where webpack-server runs?",
+  "incorrect_answers": [
+   "3000",
+   "3030",
+   "6060"
+  ],
+  "correct_answer": "8080",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which tag supports Non-English language?",
+  "incorrect_answers": [
+   "<input>",
+   "<audio>",
+   "<embed>"
+  ],
+  "correct_answer": "<bdo>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What is the default port where create-react app runs?",
+  "incorrect_answers": [
+   "5000",
+   "7000",
+   "8080"
+  ],
+  "correct_answer": "3000",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following command is used to give a message description?",
+  "incorrect_answers": [
+   "git command -d",
+   "git command -message",
+   "none of the mentioned"
+  ],
+  "correct_answer": "git command -m",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following function with filter property to create your own sophisticated effects on",
+  "incorrect_answers": [
+   "create()",
+   "DOM()",
+   "custom()"
+  ],
+  "correct_answer": "custom()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Point out the wrong statement.",
+  "incorrect_answers": [
+   "GitHub allows you to share repositories with others",
+   "GitHub allows you to access others repositories",
+   "All of the mentioned"
+  ],
+  "correct_answer": "You need GitHub to use Git",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following function converts an element’s color to a shade of gray, for use by the filter property?",
+  "incorrect_answers": [
+   "brightness()",
+   "black()",
+   "shade()"
+  ],
+  "correct_answer": "grayscale()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following command allows you to update the repository?",
+  "incorrect_answers": [
+   "pop",
+   "update",
+   "none of the mentioned"
+  ],
+  "correct_answer": " push",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "The snippet that has to be used to check if “a” is not equal to “null” is _________",
+  "incorrect_answers": [
+   "if(a!=null)",
+   "if(!a)",
+   "if(a!null)"
+  ],
+  "correct_answer": "if(a!==null)",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": " Which of the following is the correct way of creating GitHub repository in to well labelled commits?",
+  "incorrect_answers": [
+   "Pop another user’s repository",
+   "Zip another user’s repository",
+   "none of the mentioned"
+  ],
+  "correct_answer": "Fork another user’s repository",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following function flips an element’s colors, for use by the filter property?",
+  "incorrect_answers": [
+   "image()",
+   "contrast()",
+   "flip()"
+  ],
+  "correct_answer": "invert()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not a semantic element?",
+  "incorrect_answers": [
+   "<form>",
+   "<article>",
+   "<table>"
+  ],
+  "correct_answer": "<span>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Choose the correct statement.",
+  "incorrect_answers": [
+   "In traditional XHTML close tag for some elements is optional but not encouraged",
+   "In both traditional XHTML and HTML close tag for some elements is not optional",
+   "In both traditional XHTML and HTML close tag for some elements is optional"
+  ],
+  "correct_answer": "In traditional HTML close tag for some elements is optional but not encouraged",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The statement a===b refers to _________",
+  "incorrect_answers": [
+   "Both a and b are equal in value, type and reference address",
+   "Both a and b are equal in value",
+   "There is no such statement"
+  ],
+  "correct_answer": "Both a and b are equal in value and type",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the declarative way to render a dynamic list of components based on values in an array?",
+  "incorrect_answers": [
+   "With a for/while loop",
+   "Using the <Each /> component",
+   "Using the reduce array method"
+  ],
+  "correct_answer": "Using the Array.map() method",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Assume that we have to convert “false” that is a non-string to string. The command that we use is (without invoking the “new” operator).",
+  "incorrect_answers": [
+   "false.toString()",
+   "String(false)",
+   "String newvariable='false'"
+  ],
+  "correct_answer": "Both false.toString() and String(false)",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS3 Color Feature like RGB color but adds an alpha channel value to specify the opacity of the color?",
+  "incorrect_answers": [
+   "RGB",
+   "RGBaplha",
+   "AlphaRGB"
+  ],
+  "correct_answer": "RGBa",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "In which part of the HTML metadata is contained?",
+  "incorrect_answers": [
+   "title tag",
+   "body tag",
+   "leg tag"
+  ],
+  "correct_answer": "head tag",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How many ways of defining your variables in ES6?",
+  "incorrect_answers": [
+   "1",
+   "4",
+   "5"
+  ],
+  "correct_answer": "3",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "All the options are wrong EXCEPT",
+  "incorrect_answers": [
+   "State in React is a permanent storage.",
+   "State in React is external storage of the component",
+   "None of the mentioned"
+  ],
+  "correct_answer": "State in React is an internal storage of the component",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following command is used to squash the commits?",
+  "incorrect_answers": [
+   "squash",
+   "boot",
+   "all of the mentioned"
+  ],
+  "correct_answer": "rebase",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What are the two ways to handle data in React?",
+  "incorrect_answers": [
+   "Services & Components",
+   "State & Services",
+   "State & Component"
+  ],
+  "correct_answer": "State & Props",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What indicates the content in file is HTML when delivered on the network.",
+  "incorrect_answers": [
+   "he extension of the file '.html'",
+   "Both '.html' extension and “content-type” header",
+   "The 'content_type' header"
+  ],
+  "correct_answer": "The “content-type” header",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The property of a primary expression is ____________",
+  "incorrect_answers": [
+   "basic expressions containing all necessary functions",
+   "contains variable references alone",
+   "contains only keywords"
+  ],
+  "correct_answer": "stand-alone expressions",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "A function definition expression can be called as __________",
+  "incorrect_answers": [
+   "Function prototype",
+   "Function declaration",
+   "Function calling"
+  ],
+  "correct_answer": "Function literal",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What will be the output of following CSS code snippet?  h1 {color: 'green';}",
+  "incorrect_answers": [
+   "error occurs",
+   "heading becomes dark-green",
+   "heading becomes green"
+  ],
+  "correct_answer": "nothings happen",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is a must API for every React.js component?",
+  "incorrect_answers": [
+   "render",
+   "DOM component",
+   "SetinitialComponent"
+  ],
+  "correct_answer": "renderComponent",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": " Which of the following option is correct in the case of the Babel?",
+  "incorrect_answers": [
+   "Babel is a Compiler.",
+   "Babel is a Transpiler.",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Both A and B are correct.",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following function applies a saturation effect to an element’s color, making it appear more or less vivid, for use by the filter property?",
+  "incorrect_answers": [
+   "saturate()",
+   "color()",
+   "none of the mentioned"
+  ],
+  "correct_answer": "saturation()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Does React.js create a VIRTUAL DOM in the memory?",
+  "incorrect_answers": [
+   "FALSE",
+   "Can be true or false",
+   "Cannot say"
+  ],
+  "correct_answer": "TRUE",
+  "subject": "react",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following scoping type does JavaScript use?",
+  "incorrect_answers": [
+   "Sequential",
+   "Segmental",
+   "Literal"
+  ],
+  "correct_answer": "Lexical",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following statement would create branch named as ‘codenow’?",
+  "incorrect_answers": [
+   "git checkout -c codenow",
+   "git check -b codenow",
+   "none of the mentioned"
+  ],
+  "correct_answer": "git checkout -b codenow",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following Color Format is a CSS’s six-digit hexadecimal format is the same as color defined in (X)HTML?",
+  "incorrect_answers": [
+   "3-Hex Color",
+   "RGBa",
+   "RGBS"
+  ],
+  "correct_answer": "6-Hex Color",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What is the use of 'webpack' command in React.js?",
+  "incorrect_answers": [
+   "The 'webpack' command is used to transpile all the JavaScript down into one file.",
+   "It runs React local development server.",
+   "None of the mentioned"
+  ],
+  "correct_answer": "It is a module bundler.",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Footer element can’t contain ____________ information.",
+  "incorrect_answers": [
+   "the author of the document",
+   "copyright information",
+   "contact information"
+  ],
+  "correct_answer": "blog post",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS style property is used to specify an italic text?",
+  "incorrect_answers": [
+   "style",
+   "font",
+   "@font-face"
+  ],
+  "correct_answer": "font-style",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following command help us to give message description?",
+  "incorrect_answers": [
+   "git command -message",
+   "git command -d",
+   "none of the mentioned"
+  ],
+  "correct_answer": "git command -m",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "We have just created a new file called “home.html”. Which of the following will add this file so that we can commit it in git?",
+  "incorrect_answers": [
+   "git add new",
+   "git add -a home.html",
+   "git git commit home.html"
+  ],
+  "correct_answer": "git add home.html",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element is used to get highlighted text in HTML5?",
+  "incorrect_answers": [
+   "<u>",
+   "<highlight>",
+   "<b>"
+  ],
+  "correct_answer": "<mark>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following Color Format is a CSS2 introduced named color keywords which allows Web page colors to be matched to an operating system’s color use?",
+  "incorrect_answers": [
+   "Commonly defined named colors",
+   "Specificationdefined named colors",
+   "HSLa Color"
+  ],
+  "correct_answer": "System Color Names",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element works as a sidebar?",
+  "incorrect_answers": [
+   "footer",
+   "nav",
+   "header"
+  ],
+  "correct_answer": "aside",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What does ES6 stand for?",
+  "incorrect_answers": [
+   "ECMA 6",
+   "ECMAJavaScript 6",
+   "EJavaScript 6"
+  ],
+  "correct_answer": "ECMAScript 6",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "The expression of calling (or executing) a function or method in JavaScript is called ________",
+  "incorrect_answers": [
+   "Functional expression",
+   "Primary expression",
+   "Property Access Expression"
+  ],
+  "correct_answer": "Invocation expression",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "How do we write comments in HTML?",
+  "incorrect_answers": [
+   "<…….!>",
+   "</…….>",
+   "</……/>"
+  ],
+  "correct_answer": "<!……>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following function is used to change the state of the React.js class component?",
+  "incorrect_answers": [
+   "this.setChangeState",
+   "this.State{}",
+   "None of the mentioned"
+  ],
+  "correct_answer": "this.setState",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What kind of expression is 'new Point(2,3)'?",
+  "incorrect_answers": [
+   "Primary Expression",
+   "Invocation Expression",
+   "Constructor Calling Expression"
+  ],
+  "correct_answer": "Object Creation Expression",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following function defines a linear gradient as a CSS image?",
+  "incorrect_answers": [
+   "grayscale()",
+   "gradient()",
+   "image()"
+  ],
+  "correct_answer": "linear-gradient()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": " Which of the following method refers to the parent class in React.js?",
+  "incorrect_answers": [
+   "inherits()",
+   "self()",
+   "this()"
+  ],
+  "correct_answer": "super()",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following defines a visible heading for <details> element?",
+  "incorrect_answers": [
+   "<section>",
+   "<mark>",
+   "<main>"
+  ],
+  "correct_answer": "<summary>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What is the basic difference between JavaScript and Java?",
+  "incorrect_answers": [
+   "Variables are specific",
+   "There is no difference",
+   "Functions are considered as fields"
+  ],
+  "correct_answer": "Functions are values, and there is no hard distinction between methods and fields",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following are the CSS Extension Prefixes for Webkit?",
+  "incorrect_answers": [
+   "-o-",
+   "-chrome",
+   "-web"
+  ],
+  "correct_answer": "-webkit",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What does HSL stands for?",
+  "incorrect_answers": [
+   "Hue Spot Lightness",
+   "Hue Specified Lightness",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Hue Saturation Lightness",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following commands used to show all parameters in git?",
+  "incorrect_answers": [
+   "git config -a",
+   "git config --all",
+   "git config --parameters --list"
+  ],
+  "correct_answer": "git config --list",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Why is the usage of setState?",
+  "incorrect_answers": [
+   "Replace the state completely instead of the default merge action.",
+   "Access the previous state before the setState operation.",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Invoke code after the setState operation is done.",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Why JavaScript Engine is needed?",
+  "incorrect_answers": [
+   "Both Compiling & Interpreting the JavaScript",
+   "Parsing the javascript",
+   "Compiling the JavaScript"
+  ],
+  "correct_answer": "Interpreting the JavaScript",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following methods/operation does javascript use instead of == and !=?",
+  "incorrect_answers": [
+   "JavaScript uses equals() and notequals() instead",
+   "JavaScript uses equalto()",
+   "JavaScript uses bitwise checking"
+  ],
+  "correct_answer": "JavaScript uses === and !== instead",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following commands used to permanently cancel a commit?",
+  "incorrect_answers": [
+   "git revert <commit>",
+   "git reset --hard origin/master",
+   "git init"
+  ],
+  "correct_answer": "git reset <commit>",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which element defines additional details?",
+  "incorrect_answers": [
+   "<summary>",
+   "<main>",
+   "<aside>"
+  ],
+  "correct_answer": "<details>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is the correct syntax to link an external style sheet in the HTML file?",
+  "incorrect_answers": [
+   "<link rel='stylesheet' src='style.css' />",
+   "<style rel='stylesheet' src='style.css' />",
+   "<style rel='stylesheet' link='style.css' />"
+  ],
+  "correct_answer": "<link rel='stylesheet' href='style.css' />",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following elements in HTML5 defines video or movie content?",
+  "incorrect_answers": [
+   "<audio>",
+   "<media>",
+   "<movie>"
+  ],
+  "correct_answer": "<video>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What will be the result or type of error if p is not defined in the following JavaScript code snippet? - console.log(p)",
+  "incorrect_answers": [
+   "Value not found Error",
+   "Null",
+   "Zero"
+  ],
+  "correct_answer": "Reference Error",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Why event handlers is needed in JS?",
+  "incorrect_answers": [
+   "Adds innerHTML page to the code",
+   "Change the server location",
+   "Performs handling of exceptions and occurrences"
+  ],
+  "correct_answer": "Allows JavaScript code to alter the behaviour of windowsGerri",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "HTML and XHTML stands for ______",
+  "incorrect_answers": [
+   "Hyper Text Markup Language and Extensible HyperText Marking Language",
+   "Hyper Text Marking Language and EXtensible HyperText Marking Language",
+   "Hyper Text Marking Language and Extensible HyperText Markup Language"
+  ],
+  "correct_answer": "Hyper Text Markup Language and Extensible HyperText Markup Language",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element is used for or styling HTML5 layout?",
+  "incorrect_answers": [
+   "JavaScript",
+   "PHP",
+   "jQuery"
+  ],
+  "correct_answer": "CSS",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following are table tags?",
+  "incorrect_answers": [
+   "colspan, table, tr",
+   "table, tt, tr, td",
+   "thead, colspan, td, tr"
+  ],
+  "correct_answer": "table, thead, tr, td",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is not a framework?",
+  "incorrect_answers": [
+   "JavaScript .NET",
+   "Cocoa JS",
+   "jQuery"
+  ],
+  "correct_answer": "JavaScript",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following function defines a linear gradient as a CSS image?",
+  "incorrect_answers": [
+   "grayscale()",
+   "gradient()",
+   "image()"
+  ],
+  "correct_answer": "linear-gradient()",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is the property that is triggered in response to JS errors?",
+  "incorrect_answers": [
+   "onclick",
+   "onmessage",
+   "onexception"
+  ],
+  "correct_answer": "onerror",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following specifies relationship between current document and external resource?",
+  "incorrect_answers": [
+   "<meta>",
+   "<style>",
+   "<title>"
+  ],
+  "correct_answer": "<link>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "A _________ keeps track of the contributions of the developers working as a team on the projects.",
+  "incorrect_answers": [
+   "CVS",
+   "DVF",
+   "LFS"
+  ],
+  "correct_answer": "VCS",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following function two dimensional transformation in matrix format?",
+  "incorrect_answers": [
+   "matrix2d()",
+   "perspective",
+   "matrix3d()"
+  ],
+  "correct_answer": "matrix()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Choose the correct HTML for width attribute and its value.",
+  "incorrect_answers": [
+   "width=80",
+   "WIDTH='80'",
+   "WIDTH=80"
+  ],
+  "correct_answer": "width='80'",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is not an Absolute Unit?",
+  "incorrect_answers": [
+   "px",
+   "pt",
+   "mm"
+  ],
+  "correct_answer": "em",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element represents preformatted text?",
+  "incorrect_answers": [
+   "<dd>",
+   "<dir>",
+   "<main>"
+  ],
+  "correct_answer": "<pre>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not an error in JavaScript?",
+  "incorrect_answers": [
+   "Missing of Bracket",
+   "Syntax error",
+   "Missing of semicolons"
+  ],
+  "correct_answer": "Division by zero",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following unit represent the viewport’s width?",
+  "incorrect_answers": [
+   "vh",
+   "vmin",
+   "ch"
+  ],
+  "correct_answer": "vw",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which HTML tag is used for making character appearance bold?",
+  "incorrect_answers": [
+   "<u>content</u>",
+   "<i>content</i>",
+   "<br>content</br>"
+  ],
+  "correct_answer": "<b>content</b>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which HTML tag is used to insert an image?",
+  "incorrect_answers": [
+   "<img url=”htmllogo.jpg” />",
+   "<img alt=”htmllogo.jpg” />",
+   "<img link=”htmllogo.jpg” />"
+  ],
+  "correct_answer": "<img src=”htmllogo.jpg” />",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which function among the following lets to register a function to be invoked once?",
+  "incorrect_answers": [
+   "etTotaltime()",
+   "setInterval()",
+   "settime()"
+  ],
+  "correct_answer": "setTimeout()",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which function among the following lets to register a function to be invoked repeatedly after a certain time?",
+  "incorrect_answers": [
+   "setTimeout()",
+   "setTotaltime()",
+   "settime()"
+  ],
+  "correct_answer": "setInterval()",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What is true about GIT?",
+  "incorrect_answers": [
+   "Git is open-source",
+   "Git is an example of distributed version control system",
+   "Used for handling the development of small and large projects"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which is the handler method used to invoke when uncaught JavaScript exceptions occur?",
+  "incorrect_answers": [
+   "Onhalt",
+   "Both onhalt and onerror",
+   "Onsuspend"
+  ],
+  "correct_answer": "Onerror",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which element is called bidirectional isolation?",
+  "incorrect_answers": [
+   "<bdo>",
+   "<br>",
+   "<b>"
+  ],
+  "correct_answer": "<bdi>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "A repository is a file structure where git stores all the project-based files.",
+  "incorrect_answers": [
+   "FALSE",
+   "Can be true or false",
+   "Cannot say"
+  ],
+  "correct_answer": "TRUE",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following function apply a sepia tinge to an element’s color, typical of old photographs, for use by the filter property",
+  "incorrect_answers": [
+   "grayscale()",
+   "contrast()",
+   "brightness()"
+  ],
+  "correct_answer": "sepia()",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which property is used to obtain browser vendor and version information?",
+  "incorrect_answers": [
+   "modal",
+   "version",
+   "browser"
+  ],
+  "correct_answer": "navigator",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which element is used for bringing attention?",
+  "incorrect_answers": [
+   "<cite>",
+   "<br>",
+   "<code>"
+  ],
+  "correct_answer": "<b>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which character is used to represent when a tag is closed in HTML?",
+  "incorrect_answers": [
+   "#",
+   "|",
+   "\\"
+  ],
+  "correct_answer": "/",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which method receives the return value of setInterval() to cancel future invocations?",
+  "incorrect_answers": [
+   "clearInvocation()",
+   "cancelInvocation()",
+   "clear()"
+  ],
+  "correct_answer": "clearInterval()",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property can be used to set the image as a border instead of the border style?",
+  "incorrect_answers": [
+   "border-image",
+   "background-image",
+   "background-image-source"
+  ],
+  "correct_answer": "border-image-source",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "The setTimeout() belongs to which object?",
+  "incorrect_answers": [
+   "Element",
+   "Location",
+   "Event"
+  ],
+  "correct_answer": "Window",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following applications/software can be used to create a favicon?",
+  "incorrect_answers": [
+   "Unity",
+   "Dreamweaver",
+   "VLC"
+  ],
+  "correct_answer": "Adobe Photoshop",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Among the following, which is the HTML paragraph tag?",
+  "incorrect_answers": [
+   "<pre>",
+   "<hr>",
+   "<a>"
+  ],
+  "correct_answer": "<p>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which method receives the return value of setTimeout() to cancel future invocations?",
+  "incorrect_answers": [
+   "clearInterval()",
+   "cancelInvocation()",
+   "clearSchedule()"
+  ],
+  "correct_answer": "clearTimeout()",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Favicon stands for ______",
+  "incorrect_answers": [
+   "Fave icon ONLY",
+   "Favorite icon ONLY",
+   "Fave icon"
+  ],
+  "correct_answer": "Both Fave icon and Favorite icon",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element denotes that the text is a short fragment of computer code?",
+  "incorrect_answers": [
+   "<data>",
+   "<cite>",
+   "<dfn>"
+  ],
+  "correct_answer": "<code>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following value is supposed to be a slightly bolder weight that standard bold in font attribute?",
+  "incorrect_answers": [
+   "empasize",
+   "light",
+   "lighter"
+  ],
+  "correct_answer": "dark",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What is the purpose of the JavaScript Engine?",
+  "incorrect_answers": [
+   "Compiling the JavaScript",
+   "Both Compiling & Interpreting the JavaScript",
+   "Parsing the javascript"
+  ],
+  "correct_answer": "Interpreting the JavaScript",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "In HTML, which attribute is used to create a link that opens in a new window tab?",
+  "incorrect_answers": [
+   "src=”_blank”",
+   "target=”_bracket”",
+   "alt=”_bracket”"
+  ],
+  "correct_answer": "target=”_blank”",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which command creates a copy of an existing git repository.",
+  "incorrect_answers": [
+   "git copy",
+   "git replace",
+   "git move"
+  ],
+  "correct_answer": "git clone",
+  "subject": "git",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is keyboard input element?",
+  "incorrect_answers": [
+   "<mark>",
+   "<dfn>",
+   "<em>"
+  ],
+  "correct_answer": "<kbd>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS property defines the different properties of all four sides of an element’s border in a single declaration?",
+  "incorrect_answers": [
+   "border-collapse",
+   "border",
+   "padding"
+  ],
+  "correct_answer": "border-width",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which layer is used to handle the HTTP requests?",
+  "incorrect_answers": [
+   "Transport Layer",
+   "Application Layer",
+   "Presentation Layer"
+  ],
+  "correct_answer": "Network Layer",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element prevents the text from automatically wrapping across multiple lines?",
+  "incorrect_answers": [
+   "<em>",
+   "<kbd>",
+   "<mark>"
+  ],
+  "correct_answer": "<nobr>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following property allows contextual adjustment of inter-glyph spacing, i.e. the spaces between the characters in text?",
+  "incorrect_answers": [
+   "font-style",
+   "font-variant",
+   "font-family"
+  ],
+  "correct_answer": "font-kerning",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is the correct way to apply CSS Styles?",
+  "incorrect_answers": [
+   "in an external CSS file",
+   "inside the <head> section of an HTML page",
+   "inside an HTML element"
+  ],
+  "correct_answer": "all of the mentioned",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property sets the font size of text?",
+  "incorrect_answers": [
+   "text-size",
+   "text",
+   "size"
+  ],
+  "correct_answer": "font-size",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which attribute is used for favicon?",
+  "incorrect_answers": [
+   "icon",
+   "title",
+   "head"
+  ],
+  "correct_answer": "rel",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is not a value for font-style property?",
+  "incorrect_answers": [
+   "normal",
+   "oblique",
+   "italic"
+  ],
+  "correct_answer": "none of the mention",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not a attribute of the audio element?",
+  "incorrect_answers": [
+   "controls",
+   "src",
+   "loop"
+  ],
+  "correct_answer": "check",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following browsers use Webkit?",
+  "incorrect_answers": [
+   "Chrome",
+   "Internet Explorer",
+   "Safari"
+  ],
+  "correct_answer": "Both Chrome and Safari",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which element is used to enclose inline text?",
+  "incorrect_answers": [
+   "<small>",
+   "<s>",
+   "<rtc>"
+  ],
+  "correct_answer": "<samp>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which HTML element is used for short quote?",
+  "incorrect_answers": [
+   "<blockquote>",
+   "<abbr>",
+   "<em>"
+  ],
+  "correct_answer": "<q>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following selects a normal, or small-caps face from a font family?",
+  "incorrect_answers": [
+   "font-weight",
+   "font-synthesis",
+   "font-kerning"
+  ],
+  "correct_answer": "font-variant",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the operator is used to test if a particular property exists or not?",
+  "incorrect_answers": [
+   "exist",
+   "within",
+   "exists"
+  ],
+  "correct_answer": "in",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Among the following, which one is a ternary operator?",
+  "incorrect_answers": [
+   "+",
+   ":",
+   "-"
+  ],
+  "correct_answer": "?:",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "'An expression that can legally appear on the left side of an assignment expression.' is a well known explanation for variables, properties of objects, and elements of arrays. They are called",
+  "incorrect_answers": [
+   "Properties",
+   "Prototypes",
+   "Definition"
+  ],
+  "correct_answer": "Lvalue",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following element is used to specify multiple media resources for media elements like audio and video?",
+  "incorrect_answers": [
+   "<link>",
+   "<script>",
+   "<src>"
+  ],
+  "correct_answer": "<source>",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following Protocol enables a hyperlink to access a file on the local file system?",
+  "incorrect_answers": [
+   "https",
+   "telnet",
+   "ftp"
+  ],
+  "correct_answer": "file",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "JavaScript is a _______________ language.",
+  "incorrect_answers": [
+   "Object-Oriented",
+   "Assembly-language",
+   "High-level"
+  ],
+  "correct_answer": " Object-Based",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "A conditional expression is also called a _______________",
+  "incorrect_answers": [
+   "Alternative to if-else",
+   "Switch statement",
+   "If-then-else statement"
+  ],
+  "correct_answer": "Immediate if",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following attribute specifies the URL of the linked resource?",
+  "incorrect_answers": [
+   "src",
+   "link",
+   "rel"
+  ],
+  "correct_answer": "href",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is a generic inline container for phrasing content?",
+  "incorrect_answers": [
+   "<strong>",
+   "<sup>",
+   "<sub>"
+  ],
+  "correct_answer": "<span>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following element is known as Teletype Text element?",
+  "incorrect_answers": [
+   "<time>",
+   "<wbr>",
+   "<sup>"
+  ],
+  "correct_answer": "<tt>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What is a block statement in JavaScript?",
+  "incorrect_answers": [
+   "both conditional block and a single statement",
+   "block that contains a single statement",
+   "conditional block"
+  ],
+  "correct_answer": "block that combines multiple statements into a single compound statement",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "When an empty statement is encountered, a JavaScript interpreter __________",
+  "incorrect_answers": [
+   "Prompts to complete the statement",
+   "Throws an error",
+   "Shows a warning"
+  ],
+  "correct_answer": "Ignores the statement",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The “var” and “function” are __________",
+  "incorrect_answers": [
+   "Keywords",
+   "Data types",
+   "Prototypes"
+  ],
+  "correct_answer": "Declaration statements",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following color has this value #ff0000?",
+  "incorrect_answers": [
+   "blue",
+   "green",
+   "yellow"
+  ],
+  "correct_answer": "red",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The enumeration order becomes implementation dependent and non-interoperable if ___________",
+  "incorrect_answers": [
+   "The object does not have the properties present in the integer array indices",
+   "The delete keyword is never used",
+   "Object.defineProperty() is not used"
+  ],
+  "correct_answer": "If the object inherits enumerable properties",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "The favicon was standardized by the _______",
+  "incorrect_answers": [
+   "IANA",
+   "WIPO",
+   "EPO"
+  ],
+  "correct_answer": "W3C",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "What are the three important manipulations done in a for loop on a loop variable?",
+  "incorrect_answers": [
+   "Updation, Incrementation, Initialization",
+   "Testing, Updation, Testing",
+   "Initialization,Testing, Incrementation"
+  ],
+  "correct_answer": "Initialization,Testing, Updation",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "The unordered collection of properties, each of which has a name and a value is called _________",
+  "incorrect_answers": [
+   "String",
+   "Serialized Object",
+   "Array"
+  ],
+  "correct_answer": "Object",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The basic purpose of the toLocaleString() is to _________",
+  "incorrect_answers": [
+   "return a localised object representation",
+   "return a parsed string",
+   "return a local time in the string format"
+  ],
+  "correct_answer": "return a localized string representation of the object",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Variable element is ________",
+  "incorrect_answers": [
+   "<wbr>",
+   "<sup>",
+   "<time>"
+  ],
+  "correct_answer": "<var>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following Allows you to expand or condense the widths for a normal, condensed, or expanded font face?",
+  "incorrect_answers": [
+   "font-style",
+   "font-stretch",
+   "font-expand"
+  ],
+  "correct_answer": "none of the mentioned",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element represents a dialog box?",
+  "incorrect_answers": [
+   "<menuitem>",
+   "<menu>",
+   "<summary>"
+  ],
+  "correct_answer": "<dialog>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The pop() method of the array does which of the following task?",
+  "incorrect_answers": [
+   "increments the total length by 1",
+   "prints the first element but no effect on the length",
+   "updates the element"
+  ],
+  "correct_answer": "decrements the total length by 1",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element is known as Disclosure Summary element?",
+  "incorrect_answers": [
+   "<dialog>",
+   "<menuitem>",
+   "<menu>"
+  ],
+  "correct_answer": "<summary>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element represents group of commands that user can activate or perform?",
+  "incorrect_answers": [
+   "<menuitem>",
+   "<summary>",
+   "<details>"
+  ],
+  "correct_answer": "<menu>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following font-size-adjust is value used in calculating the size of the fallback fonts?",
+  "incorrect_answers": [
+   "auto",
+   "count",
+   "none"
+  ],
+  "correct_answer": "number",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What will happen if reverse() and join() methods are used simultaneously?",
+  "incorrect_answers": [
+   "Reverses and concatenates the elements of the array",
+   "Reverses",
+   "Stores the elements of an array in normal order"
+  ],
+  "correct_answer": "Reverses and stores in the same array",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is not the property of the CSS box model?",
+  "incorrect_answers": [
+   "margin",
+   "height",
+   "width"
+  ],
+  "correct_answer": "color",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property sets what kind of line decorations are added to an element, such as underlines, overlines, etc?",
+  "incorrect_answers": [
+   "text-line",
+   "text-decoration",
+   "text-style"
+  ],
+  "correct_answer": "text-decoration-line",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following HTML tag is used to create an unordered list?",
+  "incorrect_answers": [
+   "<ol>",
+   "<li>",
+   "<ll>"
+  ],
+  "correct_answer": "<ul>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property specifies the look and design of an outline?",
+  "incorrect_answers": [
+   "outline-format",
+   "outline-font",
+   "none of the mentioned"
+  ],
+  "correct_answer": "outline-style",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which HTML element is used for abbreviation or acronym?",
+  "incorrect_answers": [
+   "<b>",
+   "<q>",
+   "<em>"
+  ],
+  "correct_answer": "<abbr>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "git fetch + git merge equal to?",
+  "incorrect_answers": [
+   "git push",
+   "git branch",
+   "none of the mentioned"
+  ],
+  "correct_answer": "git pull",
+  "subject": "git",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property sets the shadow for a box element?",
+  "incorrect_answers": [
+   "set-shadow",
+   "shadow",
+   "canvas-shadow"
+  ],
+  "correct_answer": "box-shadow",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The primary purpose of the array map() function is that it __________",
+  "incorrect_answers": [
+   "maps the elements of another array into itself",
+   "passes each element of the array and returns the necessary mapped elements",
+   "pass the elements of the array into another array"
+  ],
+  "correct_answer": "passes each element of the array on which it is invoked to the function you specify, and returns an array containing the values returned by that function",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "The reduce and reduceRight methods follow a common operation called __________",
+  "incorrect_answers": [
+   "filter and fold",
+   "finger and fold",
+   "fold"
+  ],
+  "correct_answer": "inject and fold",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which element represents word break opportunity?",
+  "incorrect_answers": [
+   "<var>",
+   "<sup>",
+   "<rtc>"
+  ],
+  "correct_answer": "<wbr>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "The files that can be committed are always present in git ",
+  "incorrect_answers": [
+   "working directory",
+   "unstaged area",
+   "Anywhere, there is no barrier"
+  ],
+  "correct_answer": "staging area",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is known as child of media elements?",
+  "incorrect_answers": [
+   "<area>",
+   "<img>",
+   "<map>"
+  ],
+  "correct_answer": "<track>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS property is used to set the color of the text?",
+  "incorrect_answers": [
+   "pallet",
+   "colour",
+   " text-decoration"
+  ],
+  "correct_answer": "color",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element embeds a Java applet into the document?",
+  "incorrect_answers": [
+   "<noembed>",
+   "<embed>",
+   "<object>"
+  ],
+  "correct_answer": "<applet>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Git can be used for which project?",
+  "incorrect_answers": [
+   "Java enterprise project ONLY",
+   ".Net project ONLY",
+   "File version management"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which element defines parameters for <object> element?",
+  "incorrect_answers": [
+   "<noembed>",
+   "source>",
+   "<embed>"
+  ],
+  "correct_answer": "<param>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS Property controls how an element is positioned?",
+  "incorrect_answers": [
+   "static",
+   "set",
+   "fix"
+  ],
+  "correct_answer": "position",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element represents an external resource?",
+  "incorrect_answers": [
+   "<param>",
+   "<picture>",
+   "<source>"
+  ],
+  "correct_answer": "<object>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following CSS selector selects the elements that are checked?",
+  "incorrect_answers": [
+   "E ~ F",
+   "::after",
+   "none of the mentioned"
+  ],
+  "correct_answer": ":checked",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following is an appropriate value for the overflow element?",
+  "incorrect_answers": [
+   "scroll",
+   "hidden",
+   "auto"
+  ],
+  "correct_answer": "all of the mentioned",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "The method or operator used to identify the array is __________",
+  "incorrect_answers": [
+   "isarrayType()",
+   "==",
+   "==="
+  ],
+  "correct_answer": "typeof",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which CSS property is equivalent for the attribute <center>?",
+  "incorrect_answers": [
+   "color",
+   "margin",
+   "font"
+  ],
+  "correct_answer": "align",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "A head is nothing but a reference to the last commit object of a branch.",
+  "incorrect_answers": [
+   "No",
+   "Can be yes or no",
+   "Cannot say"
+  ],
+  "correct_answer": "Yes",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which is the latest version of CSS available?",
+  "incorrect_answers": [
+   "CSS2",
+   "CSS3.1",
+   "CSS4"
+  ],
+  "correct_answer": "CSS3",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not a web component element?",
+  "incorrect_answers": [
+   "<shadow>",
+   "<content>",
+   "<element>"
+  ],
+  "correct_answer": "<menu>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following element is for holding client-side content?",
+  "incorrect_answers": [
+   "<slot>",
+   "<element>",
+   "<content>"
+  ],
+  "correct_answer": "<template>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element sets default font face, size and color for other elements?",
+  "incorrect_answers": [
+   "<applet>",
+   "<big>",
+   "<acronym>"
+  ],
+  "correct_answer": "<basefont>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "When does the function name become optional in JavaScript?",
+  "incorrect_answers": [
+   "When the function is defined as a looping statement",
+   "When the function is predefined",
+   "when the function is called"
+  ],
+  "correct_answer": "When the function is defined as expressions",
+  "subject": "js",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property is used to give a line over the text?",
+  "incorrect_answers": [
+   "text-decoration: underline",
+   "text-decoration: line-through",
+   "text-decoration: none"
+  ],
+  "correct_answer": "text-decoration: overline",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following HTML tag is used to add a row in a table?",
+  "incorrect_answers": [
+   "<td>",
+   "<th>",
+   "<tt>"
+  ],
+  "correct_answer": "<tr>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the purpose of a return statement in a function?",
+  "incorrect_answers": [
+   "Returns the value and continues executing rest of the statements, if any",
+   "Returns the value and stops the program",
+   "Returns the value and stops executing the function"
+  ],
+  "correct_answer": "Stops executing the function and returns the value",
+  "subject": "js",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element is used to show the text slowly?",
+  "incorrect_answers": [
+   "<big>",
+   "<center>",
+   "<audio>"
+  ],
+  "correct_answer": "<blink>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following CSS property is used to specify table borders in CSS?",
+  "incorrect_answers": [
+   "table:border",
+   "border",
+   "none of the mentioned"
+  ],
+  "correct_answer": "border",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element specifies multiple media resources?",
+  "incorrect_answers": [
+   "<param>",
+   "<object>",
+   "<picture>"
+  ],
+  "correct_answer": "<source>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following property is used to align the text in a table?",
+  "incorrect_answers": [
+   "align",
+   "text",
+   "none of the mentioned"
+  ],
+  "correct_answer": "text-align",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which element is used for inserting scrolling area of text?",
+  "incorrect_answers": [
+   "<menu>",
+   "<menuitem>",
+   "<multicol>"
+  ],
+  "correct_answer": "<marquee>",
+  "subject": "html",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which of the following CSS Property sets the stacking order of positioned elements?",
+  "incorrect_answers": [
+   "y-index",
+   "x-index",
+   "all of the mentioned"
+  ],
+  "correct_answer": "z-index",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the work of <address> element in HTML5?",
+  "incorrect_answers": [
+   "contains url",
+   "contains home address",
+   "contains IP address"
+  ],
+  "correct_answer": "contains contact details for author",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What will happen if a return statement does not have an associated expression?",
+  "incorrect_answers": [
+   "It returns the value 0",
+   "It will throw an exception",
+   "It will throw an error"
+  ],
+  "correct_answer": "It returns the undefined value",
+  "subject": "js",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which element is used to draw graphics and animations?",
+  "incorrect_answers": [
+   "<script>",
+   "<noscript>",
+   "<picture>"
+  ],
+  "correct_answer": "<canvas>",
+  "subject": "html",
+  "difficulty": "hard"
+ },
+ {
+  "question": "There is no single, integrated ____________________ because it is split into separate modules.",
+  "incorrect_answers": [
+   "CSS1 specification",
+   "CSS2 specification",
+   "CSS3 specification"
+  ],
+  "correct_answer": "CSS4 specification",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following tag is used to create a text area in HTML Form?",
+  "incorrect_answers": [
+   "<text></text>",
+   "<input type=”text” />",
+   "<input type=”textarea” />"
+  ],
+  "correct_answer": "<textarea> </textarea>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the use of the create-react-app command in the React.js application?",
+  "incorrect_answers": [
+   "It is used to update a React app.",
+   "It is used to install dependencies.",
+   "None of the mentioned"
+  ],
+  "correct_answer": "It is used to create a new React app.",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "To show deleted text, which HTML element is used?",
+  "incorrect_answers": [
+   "<strong>",
+   "<em>",
+   "<ins>"
+  ],
+  "correct_answer": "<del>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which tag is used to create a dropdown in HTML Form?",
+  "incorrect_answers": [
+   "<selectdown>",
+   "<text>",
+   "<textarea>"
+  ],
+  "correct_answer": "<select>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is true for the keys given to a list of elements in React?",
+  "incorrect_answers": [
+   "Unique in the DOM.",
+   "Do not require to be unique.",
+   "None of the mentioned"
+  ],
+  "correct_answer": "Unique among the siblings only.",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is the correct way to applying style to a document?",
+  "incorrect_answers": [
+   "Use an external style sheet, either by importing it or by linking to it",
+   "Directly embed a document-wide style in the head element of the document",
+   "Set an inline style rule using the style attribute directly on an element"
+  ],
+  "correct_answer": "All of the mentioned",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which tag is used to create a numbered list in HTML?",
+  "incorrect_answers": [
+   "<ul>",
+   "<li>",
+   "<al>"
+  ],
+  "correct_answer": "<ol>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": " We can update the state in React.js by calling to setState() method. These calls are:",
+  "incorrect_answers": [
+   "Synchronous in nature.",
+   "Are asynchronous but can be made synchronous when required.",
+   "None of the mentioned."
+  ],
+  "correct_answer": "Asynchronous in nature.",
+  "subject": "react",
+  "difficulty": "medium"
+ },
+ {
+  "question": "How to create a checkbox in HTML Form?",
+  "incorrect_answers": [
+   "<input type=”text”>",
+   "<input type=”textarea”>",
+   "<input type=”button”>"
+  ],
+  "correct_answer": "<input type=”checkbox”>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS3 property can be used to allow line breaks within words?",
+  "incorrect_answers": [
+   "line-break",
+   "line-wrap",
+   "word-wrap"
+  ],
+  "correct_answer": "word-break",
+  "subject": "css",
+  "difficulty": "easy"
+ },
+ {
+  "question": "How to insert Hyperlink in HTML Page?",
+  "incorrect_answers": [
+   "<a target='https: //www.sanfoundry.com/1000-html-questions-answers/>'HTML Quiz</a>",
+   "<a src='https: //www.sanfoundry.com/1000-html-questions-answers/>'HTML Test</a>",
+   "<a>https: //www.sanfoundry.com/1000-html-questions-answers</a>"
+  ],
+  "correct_answer": "<a href='https: //www.sanfoundry.com/1000-html-questions-answers/>'HTML MCQ</a>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following extension is used to save an HTML file?",
+  "incorrect_answers": [
+   ".hl",
+   ".h",
+   ".htlm"
+  ],
+  "correct_answer": ".html",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which tag is used to create a blank line in HTML?",
+  "incorrect_answers": [
+   "<b>",
+   "<em>",
+   "<a>"
+  ],
+  "correct_answer": "<br>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Kandace",
+  "incorrect_answers": [
+   "By using the value property",
+   "By using the default property",
+   "It is assigned automatically."
+  ],
+  "correct_answer": "By using the defaultValue property",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which HTML tag is used to convert the plain text into italic format?",
+  "incorrect_answers": [
+   "<p>",
+   "<b>",
+   "<a>"
+  ],
+  "correct_answer": "<i>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the use of <hr/> tag in HTML?",
+  "incorrect_answers": [
+   "To create vertical rule between sections",
+   "For making content appearance italics",
+   "To create a line break"
+  ],
+  "correct_answer": "To create horizontal rule between sections",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which tag is used to underline the text in HTML?",
+  "incorrect_answers": [
+   "<p>",
+   "<i>",
+   "<ul>"
+  ],
+  "correct_answer": "<u>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following best defines the  'key' prop?",
+  "incorrect_answers": [
+   "'Key' prop is used to look pretty, and there is no benefit whatsoever. ",
+   "It is one of the attributes in HTML.",
+   "It is NOT commonly used in an array."
+  ],
+  "correct_answer": "'Key' prop is a way for React to identify a newly added item in a list and compare it during the 'diffing' algorithm.",
+  "subject": "react",
+  "difficulty": "hard"
+ },
+ {
+  "question": "What if one does not use the doctype in the starting of HTML document?",
+  "incorrect_answers": [
+   "Browser finds a document in standard mode",
+   "Browser stops working",
+   "Browser crashes after showing the page"
+  ],
+  "correct_answer": "Browser finds the document in quirky mode",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What does <main> include?",
+  "incorrect_answers": [
+   "Sidebar",
+   "Header",
+   "Footer"
+  ],
+  "correct_answer": "Article",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following is not sectioning elements?",
+  "incorrect_answers": [
+   "<aside>",
+   "<nav>",
+   "<article>"
+  ],
+  "correct_answer": "<header>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "What is the default type of ‘type’ attribute of <input> element?",
+  "incorrect_answers": [
+   "Password",
+   "Special Characters",
+   "Numerals"
+  ],
+  "correct_answer": "Text",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Unlike CSS 2, which is a large single specification defining various features?",
+  "incorrect_answers": [
+   "CSS level 2.1",
+   "CSS level 1",
+   "CSS level 2"
+  ],
+  "correct_answer": "CSS level 3",
+  "subject": "css",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which attribute defines the file-select field?",
+  "incorrect_answers": [
+   "checkbox",
+   "button",
+   "text"
+  ],
+  "correct_answer": "file",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which element is used to create multi-line text input?",
+  "incorrect_answers": [
+   "text",
+   "radio button",
+   "submit"
+  ],
+  "correct_answer": "textarea",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which attribute is not used for the radio type?",
+  "incorrect_answers": [
+   "name",
+   "value",
+   "checked"
+  ],
+  "correct_answer": "selected",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which element contains major navigational block?",
+  "incorrect_answers": [
+   "<address>",
+   "<header>",
+   "<footer>"
+  ],
+  "correct_answer": "<nav>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "Which of the following CSS property defines the space between cells in a table?",
+  "incorrect_answers": [
+   "border-style",
+   "border",
+   "none of the mentioned"
+  ],
+  "correct_answer": "border-spacing",
+  "subject": "css",
+  "difficulty": "medium"
+ },
+ {
+  "question": "Which element groups related content together?",
+  "incorrect_answers": [
+   "<aside>",
+   "<footer>",
+   "<div>"
+  ],
+  "correct_answer": "<section>",
+  "subject": "html",
+  "difficulty": "easy"
+ },
+ {
+  "question": "The _________ command is a convenient way to set configuration options for defining the behavior of the repository, user information and preferences, git installation-based configurations, and many such things",
+  "incorrect_answers": [
+   "git head",
+   "git conflict",
+   "git status"
+  ],
+  "correct_answer": "git config",
+  "subject": "git",
+  "difficulty": "hard"
+ },
+ {
+  "question": "Which of the following is not set with font-style property?",
+  "incorrect_answers": [
+   "font-style: normal",
+   "font-style: oblique",
+   "font-style: italic"
+  ],
+  "correct_answer": "font-style: capitalize",
+  "subject": "html",
+  "difficulty": "easy"
+ }
+]
