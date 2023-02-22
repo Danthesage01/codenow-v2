@@ -11,7 +11,7 @@ import {
 import DashFormRow from "../../../components/DashFormRow/DasFormRow";
 import Button, { BUTTON_TYPE_CLASSES } from "../../../components/Button/Button";
 import { useAuthGlobalContext } from "../../../context/authContext/authContext";
-import { toast } from "react-toastify";
+
 const Profile = () => {
   const { user, uploadPhoto, updateUser, isLoading } = useAuthGlobalContext();
 
@@ -36,7 +36,9 @@ const Profile = () => {
  
   const handlePhoto = (e) => {
     setPhoto(e.target.files[0]);
-    uploadPhoto(e.target.files[0]);
+    if(!photo){
+      uploadPhoto(e.target.files[0]);
+    }
   };
 
   const handleSubmit = (e) => {
