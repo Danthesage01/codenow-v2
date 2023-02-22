@@ -30,6 +30,7 @@ const Wrapper = styled.nav`
   background: ${(props) => props.theme.colors.cWhite};
   .btn-container {
     position: relative;
+    min-width: fit-content;
     font-size: 0.875rem;
     @media ${(props) => props.theme.breakpoints.lg} {
       font-size: 1rem;
@@ -50,6 +51,7 @@ const Wrapper = styled.nav`
     top: 65px;
     left: 0;
     width: 100%;
+    min-width: 70px;
     background: ${(props) => props.theme.colors.cBlack};
     box-shadow: ${(props) => props.theme.shadows.shadow2};
     padding: 0.5rem;
@@ -59,7 +61,7 @@ const Wrapper = styled.nav`
     border-radius: ${(props) => props.theme.features.borderRadius};
     @media ${(props) => props.theme.breakpoints.lg} {
       font-size: 1rem;
-      top: 73px;
+      top: 71px;
     }
   }
   .show-dropdown {
@@ -68,6 +70,7 @@ const Wrapper = styled.nav`
   .dropdown-btn {
     background: transparent;
     border-color: transparent;
+    /* min-width: 10rem; */
     color: ${(props) => props.theme.colors.cGreen};
     letter-spacing: ${(props) => props.theme.features.letterSpacing};
     text-transform: capitalize;
