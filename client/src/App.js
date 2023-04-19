@@ -28,7 +28,7 @@ function App() {
       <GlobalStyles />
       <Routes>
         <Route
-          path="/"
+          path="/dashboard"
           element={
             <ProtectedRoute>
               <SharedLayout />
@@ -57,7 +57,7 @@ function App() {
           />
         </Route>
         <Route
-          path="welcome"
+          path="/"
           element={<LandingPage />}
         />
         <Route

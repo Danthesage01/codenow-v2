@@ -31,6 +31,7 @@ const Wrapper = styled.nav`
   .btn-container {
     position: relative;
     min-width: fit-content;
+    cursor: pointer;
     font-size: 0.875rem;
     @media ${(props) => props.theme.breakpoints.lg} {
       font-size: 1rem;
@@ -42,6 +43,8 @@ const Wrapper = styled.nav`
     text-transform: capitalize;
     display: flex;
     align-items: center;
+    cursor: pointer;
+
     justify-content: center;
     gap: 0 0.5rem;
   }

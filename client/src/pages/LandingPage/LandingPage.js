@@ -20,7 +20,7 @@ const LandingPage = () => {
   const { user } = useAuthGlobalContext();
   return (
     <React.Fragment>
-      {user && <Navigate to="/" />}
+      {user && <Navigate to="/dashboard" />}
       <Wrapper>
         <Logo />
         <Page>

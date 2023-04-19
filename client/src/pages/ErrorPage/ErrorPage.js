@@ -16,7 +16,7 @@ const Error = () => {
           />
           <HeadThree>Oooh! Page Not found</HeadThree>
           <Text>Kindly navigate back home. You sent a bad request.</Text>
-          <ErrorLink to={user ? "/" : "/welcome"}>Back Home</ErrorLink>
+          <ErrorLink to={user ? "/dashboard" : "/"}>Back Home</ErrorLink>
         </Div>
       </Main>
     </>

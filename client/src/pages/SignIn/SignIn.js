@@ -58,7 +58,7 @@ const SignIn = () => {
   useEffect(() => {
     if (user) {
       setTimeout(() => {
-        navigate("/");
+        navigate("/dashboard");
       }, 2000);
     }
   }, [user]);

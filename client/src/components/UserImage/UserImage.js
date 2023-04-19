@@ -12,7 +12,10 @@ const UserImage = () => {
           alt="photo"
         />
       ) : (
-        <FaUserCircle fontSize={"1.7rem"} />
+        <FaUserCircle
+          fontSize={"1.7rem"}
+          cursor={"pointer"}
+        />
       )}
     </>
   );
